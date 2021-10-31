@@ -45,6 +45,7 @@ for i in range(100):
 json_recv()
 
 
+
 '''
         if encoding == "base64":
             encoded = base64.b64encode(self.challenge_words.encode()).decode() # wow so encode
